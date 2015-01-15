@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1421253820392.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "44D5353B",
+    "lastKnownWriteTime" : 4715943245624861044,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "stepsByInterval",
+        "contentUrl" : "content?title=stepsByInterval&file=7cc7da1d95ba47e489f8c48b720ebf93.htm",
+        "displayedObservations" : "288",
+        "displayedVariables" : 2,
+        "totalObservations" : "288",
+        "variables" : "2"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

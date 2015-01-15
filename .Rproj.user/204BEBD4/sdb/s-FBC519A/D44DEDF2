@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1421253759709.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D44DEDF2",
+    "lastKnownWriteTime" : 13229787768225891,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "stepsData",
+        "contentUrl" : "content?title=stepsData&file=a93093afa7764fbf8f2a889e50620080.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 4,
+        "totalObservations" : "17568",
+        "variables" : "4"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

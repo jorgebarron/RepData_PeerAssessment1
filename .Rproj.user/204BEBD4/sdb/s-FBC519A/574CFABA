@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1421260222417.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "574CFABA",
+    "lastKnownWriteTime" : 1421257524,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "stepsReplacedData",
+        "contentUrl" : "content?title=stepsReplacedData&file=5da84601968c4c719962d802b80f340a.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 3,
+        "totalObservations" : "17568",
+        "variables" : "3"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
